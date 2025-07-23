@@ -14,7 +14,6 @@
 - Пути в CSV (`image`, `img_path`, `Image_path`) должны быть относительными (например, `image1.jpg`)
   и указывать на файлы в `data/raw/<dataset_name>/`.
 """
-
 import pandas as pd
 import easyocr
 import cv2
@@ -22,7 +21,6 @@ import jiwer
 import logging
 import numpy as np
 import os
-import ast
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 from ocr_evaluation.config import PROCESSED_DATA_DIR, DATA_DIR, DATASETS
@@ -83,15 +81,20 @@ def load_annotations(annotation_file, dataset_name):
     try:
         df = pd.read_csv(annotation_file)
         df = df[df['label'].notna() & (df['label'] != '###')]
+        logging.info(f'Загружен CSV {annotation_file} с {len(df)} строками')
         image_column = 'image' if dataset_name in ['Dataset1', 'Dataset2'] else 'Image_path' if dataset_name in ['dataset2_2', 'Dataset5', 'Dataset6'] else 'img_path'
-        for image_path, group in df.groupby(image_column):
-            full_image_path = os.path.join(DATA_DIR, 'raw', dataset_name, os.path.basename(image_path))
-            annotations[full_image_path] = group['label'].tolist()
+        for index, row in df.iterrows():
+            image_path = row[image_column]
+            # Формируем полный путь, добавляя только префикс DATA_DIR/raw/
+            full_image_path = os.path.join(DATA_DIR, 'raw', image_path)
+            logging.info(f'Сформирован путь к изображению: {full_image_path}')
+            annotations[full_image_path] = [row['label']]
+        logging.info(f'Загружено аннотаций для {len(annotations)} изображений в {dataset_name}')
+        logging.info(f'Примеры путей: {list(annotations.keys())[:5]}')
+        return annotations
     except Exception as e:
         logging.error(f'Ошибка загрузки {annotation_file}: {e}')
         return {}
-    logging.info(f'Загружено аннотаций для {len(annotations)} изображений в {dataset_name}')
-    return annotations
 
 def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
     """Оценка EasyOCR на одном датасете."""
@@ -108,12 +111,17 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
 
     if dataset_name in ['Dataset1', 'Dataset2']:
         for image_path in tqdm(image_paths, desc=f'Обработка {dataset_name}'):
+            logging.info(f'Попытка загрузки изображения: {image_path}')
             if not os.path.exists(image_path):
                 logging.warning(f'Пропущено: {image_path} (файл не существует)')
+                cer_scores.append(1.0)
+                wer_scores.append(1.0)
                 continue
             ground_truth = annotations.get(image_path, [])
             if not ground_truth:
                 logging.warning(f'Пропущено: {image_path} (нет аннотаций)')
+                cer_scores.append(1.0)
+                wer_scores.append(1.0)
                 continue
             try:
                 results = reader.readtext(image_path, detail=0, allowlist=allowlist)
@@ -124,7 +132,7 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
                     wer_score = jiwer.wer(ground_truth_text, predicted_text)
                     cer_scores.append(cer_score)
                     wer_scores.append(wer_score)
-                    logging.info(f'Изображение {image_path}: CER={cer_score:.4f}, WER={wer_score:.4f}')
+                    logging.info(f'Изображение {image_path}: CER={cer_score:.4f}, WER={wer_score:.4f}, GT={ground_truth_text}, Pred={predicted_text}')
                 else:
                     logging.warning(f'Пустой ground truth для {image_path}')
                     cer_scores.append(1.0)
@@ -136,8 +144,12 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
     else:
         try:
             df = pd.read_csv(annotation_file)
+            logging.info(f'Загружен CSV {annotation_file} с {len(df)} строками')
             for idx, row in tqdm(df.iterrows(), total=len(df), desc=f'Обработка {dataset_name}'):
-                image_path = os.path.join(DATA_DIR, 'raw', dataset_name, os.path.basename(row.get('img_path', row.get('Image_path'))))
+                image_path_raw = row.get('img_path', row.get('Image_path'))
+                # Формируем полный путь, добавляя только префикс DATA_DIR/raw/
+                image_path = os.path.join(DATA_DIR, 'raw', image_path_raw)
+                logging.info(f'Попытка загрузки изображения: {image_path}')
                 ground_truth = clean_ground_truth(row['label'])
                 bbox_str = row['bbox']
 
