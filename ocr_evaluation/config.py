@@ -8,7 +8,7 @@ PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed")
 MODELS_DIR = os.path.join(BASE_DIR, "models")
 
 # Имена датасетов
-DATASETS = ["d1", "d2_1", "d3", "d4", "d5", "d6"]
+DATASETS = ["d1", "d2", "d2_1", "d2_2", "d5", "d6"]
 
 # Параметры обработки
 CHUNK_SIZE = 50
