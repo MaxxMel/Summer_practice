@@ -1,0 +1,17 @@
+[project]
+name = "ocr_evaluation"
+version = "0.1.0"
+description = "Оценка EasyOCR на шести OCR-датасетах с метриками WER и CER"
+dependencies = [
+    "easyocr==1.7.1",
+    "pandas==2.2.2",
+    "opencv-python==4.10.0",
+    "jiwer==3.0.3",
+    "tqdm==4.66.5",
+    "numpy==1.26.4",
+    "psutil==6.0.0",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
