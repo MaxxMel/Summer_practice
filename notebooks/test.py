@@ -3,16 +3,16 @@
 """
 Оценка EasyOCR на шести OCR-датасетах
 
-Этот скрипт загружает шесть OCR-датасетов (NT, d1, d2, d2_1, d2_2, d5, d6), выполняет оценку EasyOCR,
-вычисляет метрики WER и CER, и визуализирует результаты.
+Этот скрипт загружает шесть OCR-датасетов (Dataset1, Dataset2, dataset2_1, dataset2_2, Dataset5, Dataset6),
+выполняет оценку EasyOCR, вычисляет метрики WER и CER, и визуализирует результаты.
 
 Требования:
-- Обработанные файлы (`test.txt`, `d1_test.csv`, `d2_test.csv`, `d2_1_test.csv`, `d2_2_test.csv`,
-  `d5_test.csv`, `d6_test.csv`) должны быть в `data/processed/`.
-- Сырые датасеты должны быть распакованы в `data/raw/NT/`, `data/raw/d1_raw/`, и т.д.
+- Обработанные файлы (`d1_test.csv`, `d2_test.csv`, `d2_1_test.csv`, `d2_2_test.csv`, `d5_test.csv`, `d6_test.csv`)
+  должны быть в `data/processed/`.
+- Сырые датасеты должны быть распакованы в `data/raw/Dataset1/`, `data/raw/Dataset2/`, и т.д.
 - Зависимости установлены через `pip install -r requirements.txt`.
 - Пути в CSV (`image`, `img_path`, `Image_path`) должны быть относительными (например, `image1.jpg`)
-  и указывать на файлы в `data/raw/<dataset_name>_raw/`.
+  и указывать на файлы в `data/raw/<dataset_name>/`.
 """
 
 import pandas as pd
@@ -41,13 +41,13 @@ def resize_image(image, max_size=1024):
 def parse_bbox(bbox_str, dataset_name, img_width=None, img_height=None):
     """Парсинг bbox в зависимости от формата датасета."""
     try:
-        if dataset_name == 'd2_1':
+        if dataset_name == 'dataset2_1':
             x, y, w, h = map(float, bbox_str.strip('"').split(','))
             if w <= 0 or h <= 0:
                 logging.warning(f'Некорректные размеры bbox: w={w}, h={h}')
                 return None
             return (int(x), int(y), int(w), int(h))
-        elif dataset_name in ['d5', 'd6']:
+        elif dataset_name in ['Dataset5', 'Dataset6']:
             bbox = ast.literal_eval(bbox_str)
             x1, y1 = bbox[0]
             x2, y2 = bbox[1]
@@ -56,7 +56,7 @@ def parse_bbox(bbox_str, dataset_name, img_width=None, img_height=None):
                 logging.warning(f'Некорректные размеры bbox: w={w}, h={h}')
                 return None
             return (int(x1), int(y1), int(w), int(h))
-        elif dataset_name == 'd2_2':
+        elif dataset_name == 'dataset2_2':
             bbox = ast.literal_eval(bbox_str)
             x, y, w, h = bbox
             if w <= 0 or h <= 0:
@@ -78,37 +78,18 @@ def clean_ground_truth(text):
     return text
 
 def load_annotations(annotation_file, dataset_name):
-    """Загрузка аннотаций из CSV или текстового файла."""
+    """Загрузка аннотаций из CSV."""
     annotations = {}
-    if dataset_name == 'NT':
-        try:
-            with open(annotation_file, 'r', encoding='utf-8') as f:
-                for line in f:
-                    parts = line.strip().split('\t')
-                    if len(parts) != 3:
-                        logging.warning(f'Некорректная строка: {line.strip()}')
-                        continue
-                    image_path, _, transcription = parts
-                    if transcription == '###':
-                        continue
-                    full_image_path = os.path.join(DATA_DIR, 'raw', 'NT', os.path.basename(image_path))
-                    if full_image_path not in annotations:
-                        annotations[full_image_path] = []
-                    annotations[full_image_path].append(transcription)
-        except Exception as e:
-            logging.error(f'Ошибка загрузки {annotation_file}: {e}')
-            return {}
-    else:
-        try:
-            df = pd.read_csv(annotation_file)
-            df = df[df['label'].notna() & (df['label'] != '###')]
-            image_column = 'image' if dataset_name in ['d1', 'd2'] else 'Image_path' if dataset_name in ['d2_2', 'd5', 'd6'] else 'img_path'
-            for image_path, group in df.groupby(image_column):
-                full_image_path = os.path.join(DATA_DIR, 'raw', f'{dataset_name}_raw', os.path.basename(image_path))
-                annotations[full_image_path] = group['label'].tolist()
-        except Exception as e:
-            logging.error(f'Ошибка загрузки {annotation_file}: {e}')
-            return {}
+    try:
+        df = pd.read_csv(annotation_file)
+        df = df[df['label'].notna() & (df['label'] != '###')]
+        image_column = 'image' if dataset_name in ['Dataset1', 'Dataset2'] else 'Image_path' if dataset_name in ['dataset2_2', 'Dataset5', 'Dataset6'] else 'img_path'
+        for image_path, group in df.groupby(image_column):
+            full_image_path = os.path.join(DATA_DIR, 'raw', dataset_name, os.path.basename(image_path))
+            annotations[full_image_path] = group['label'].tolist()
+    except Exception as e:
+        logging.error(f'Ошибка загрузки {annotation_file}: {e}')
+        return {}
     logging.info(f'Загружено аннотаций для {len(annotations)} изображений в {dataset_name}')
     return annotations
 
@@ -125,7 +106,7 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
     cer_scores = []
     wer_scores = []
 
-    if dataset_name in ['NT', 'd1', 'd2']:
+    if dataset_name in ['Dataset1', 'Dataset2']:
         for image_path in tqdm(image_paths, desc=f'Обработка {dataset_name}'):
             if not os.path.exists(image_path):
                 logging.warning(f'Пропущено: {image_path} (файл не существует)')
@@ -156,7 +137,7 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
         try:
             df = pd.read_csv(annotation_file)
             for idx, row in tqdm(df.iterrows(), total=len(df), desc=f'Обработка {dataset_name}'):
-                image_path = os.path.join(DATA_DIR, 'raw', f'{dataset_name}_raw', os.path.basename(row.get('img_path', row.get('Image_path'))))
+                image_path = os.path.join(DATA_DIR, 'raw', dataset_name, os.path.basename(row.get('img_path', row.get('Image_path'))))
                 ground_truth = clean_ground_truth(row['label'])
                 bbox_str = row['bbox']
 
@@ -187,7 +168,7 @@ def evaluate_dataset(dataset_name, annotation_file, reader, allowlist=None):
                     cropped_image = resize_image(cropped_image, max_size=128)
 
                     results = reader.readtext(cropped_image, detail=0, batch_size=8, allowlist=allowlist)
-                    extracted_text = ''.join(results).strip() if dataset_name in ['d5', 'd6'] else ' '.join(results).strip()
+                    extracted_text = ''.join(results).strip() if dataset_name in ['Dataset5', 'Dataset6'] else ' '.join(results).strip()
                     if extracted_text and ground_truth:
                         cer_score = jiwer.cer(ground_truth, extracted_text)
                         wer_score = jiwer.wer(ground_truth, extracted_text)
@@ -226,8 +207,8 @@ def main():
 
     results = {}
     for dataset_name in DATASETS:
-        allowlist = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ<' if dataset_name in ['d5', 'd6'] else None
-        annotation_file = os.path.join(PROCESSED_DATA_DIR, 'test.txt' if dataset_name == 'NT' else f'{dataset_name}_test.csv')
+        allowlist = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ<' if dataset_name in ['Dataset5', 'Dataset6'] else None
+        annotation_file = os.path.join(PROCESSED_DATA_DIR, f'{dataset_name.lower()}_test.csv')
         avg_cer, avg_wer = evaluate_dataset(dataset_name, annotation_file, reader, allowlist)
         results[dataset_name] = {'avg_cer': avg_cer, 'avg_wer': avg_wer}
 
