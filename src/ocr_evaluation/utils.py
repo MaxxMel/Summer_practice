@@ -16,17 +16,18 @@ def resize_image(image, max_size=1024):
 def parse_bbox(bbox_str, img_width=None, img_height=None, dataset_name=None):
     """Парсинг bbox в зависимости от формата датасета."""
     try:
-        if dataset_name in ['Dataset1', 'Dataset2']:
+
+        if dataset_name in ['Text_detection_in_the_documents', 'Total_text']:
             return None
-        elif dataset_name == 'dataset2_1':
+        elif dataset_name == 'sbernotes':
             x, y, w, h = map(float, bbox_str.strip('"').split(','))
             if w <= 0 or h <= 0:
                 logging.warning(f'Некорректные размеры bbox: w={w}, h={h}')
                 return None
             return (int(x), int(y), int(w), int(h))
-        elif dataset_name in ['dataset2_2', 'Dataset5', 'Dataset6']:
+        elif dataset_name in ['russian_language_visual_text_recognition', 'licance_plate_characters_detection_ocr', 'ocr_machine_readable_zone_mrz_detection']:
             bbox = ast.literal_eval(bbox_str)
-            if dataset_name == 'dataset2_2':
+            if dataset_name == 'russian_language_visual_text_recognition':
                 x, y, w, h = bbox
                 if w <= 0 or h <= 0:
                     logging.warning(f'Некорректные размеры bbox: w={w}, h={h}')
