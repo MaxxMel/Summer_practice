@@ -10,3 +10,5 @@ zip- архив с датасетами переместить в data/raw/
 
 test1 - для dataset1 
 
+устройство data / raw / Dataset1, Dataset2 ... 
+       
