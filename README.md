@@ -14,4 +14,7 @@ pip install -r requirements.txt либо же копируем содержим�
 
 python -m ocr_evaluate.test_total_text ->  data/processed/Total_text_results.csv  
 устройство data / raw / Text_detection_in_the_documents, Total_text ... 
+
+Таблицы с метриками лежат в data / processed / 
+в формате results_<название датасета>.csv
        
