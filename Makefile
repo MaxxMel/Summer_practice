@@ -1,13 +1,11 @@
-Makefile для проекта оценки OCR
+install: pip install -r requirements.txt pip install -e .
 
-.PHONY: all install data evaluate clean
+data: @echo "Extract dataset zip archives to data/raw/"
 
-all: install data evaluate
+test_text_detection: python -m src.ocr_evaluation.test_total_text
 
-install: @echo "Установка зависимостей..." pip install -r requirements.txt
+test_ocr_machine_readable_zone_mrz_detection: python -m src.ocr_evaluation.test_ocr_machine_readable_zone_mrz_detection
 
-data: @echo "Подготовка датасетов..." python -m ocr_evaluation.dataset
+clean: rm -rf pycache src/ocr_evaluation/pycache
 
-evaluate: @echo "Запуск оценки OCR..." python -m ocr_evaluation.modeling.predict
-
-clean: @echo "Очистка..." rm -rf models/* rm -rf reports/figures/* rm -rf data/interim/*
+.PHONY: install data test_text_detection test_dataset6 clean
