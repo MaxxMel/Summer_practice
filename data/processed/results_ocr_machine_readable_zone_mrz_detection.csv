@@ -1,0 +1,15 @@
+image_path,ground_truth,predicted_text,cer,wer
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/15.png,JWRZE19892NLD4219130F239507467875059<<<<<20,JWRZE19892ND4219130F239507467875059<<<<<20,0.023255813953488372,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/0.png,P<NLDDE<KAI<<LIZZY<KUIJPERS<<<<<<<<<<<<<<<<,P<MIDDF<KAT<4T77Y<KMTPFRS<<<<<<<<444<444<,0.4418604651162791,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/11.png,P<NLDDE<JET<<ROWAN<VANNUS<<<<<<<<<<<<<<<<<<,P<MIDDF<FT<<ROHAN<VANNMS<<<<<<<<<<444<444<,0.3023255813953488,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/15.png,P<NLDDE<ANNEMIJN<<SARA<VANARNSBERG<<<<<<<<<,P<MIDDF<ANNFMTIN<<SARA<VANARNSRFRG<<<<<<<<<,0.18604651162790697,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/9.png,BVBHP19672NLD4691351M284010469375054<<<<<79,BVBHP19672NLD4691351M284010469375054<<<<<79,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/14.png,UGBWB19822NLD4311941M643024789944272<<<<<99,GBWB19822NLM643024789944272<<<<<99D43194,0.3488372093023256,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/5.png,MLJZV19752NLD8264533M439741164191856<<<<<91,9752NLD8264533M439741164191856<<<<<9,0.16279069767441862,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/35.png,P<NLDDE<FELIX<<MATTHIJS<LANKLE<<<<<<<<<<<<<,P<MIDDF<FFITY<<MATTHTL64ANKIF<<<<<<<<<<<<<,0.32558139534883723,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/2.png,P<NLDDE<SIEM<<THIJS<GARRET<<<<<<<<<<<<<<<<<,P<MIDDF<STFM<<THTLS<GAPRFT<<<<<<<<<<<<<444<,0.27906976744186046,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/6.png,P<NLDDE<KARLIJN<<BIBI<FRANCOISE<<<<<<<<<<<<,P<MIDDF<KARITIN<<RTRT<FRANCOTSF<<<<<<<<<<<<,0.27906976744186046,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/24.png,P<NLDDE<LORENZO<<SIEM<PRATT<<<<<<<<<<<<<<<<,P<MIDDF<0RFN70<<STFM<PRATT<<<<<<<<<<<<44<<,0.27906976744186046,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/16.png,P<NLDDE<JENS<<JAYDA<VERHAREN<<<<<<<<<<<<<<<,P<MIDDF<FNS<<AYDA<VFRHARFN<<<<<<<<<<<<4<<,0.20930232558139536,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/33.png,AGNQI19962NLD6278246M647457436008307<<<<<73,AGNQI19962NLD6278246M647457436008307<<<<<77,0.023255813953488372,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Dataset6/archive/images/17.png,VYPNY19662NLD5590813F970821091147972<<<<<43,VYPNY19662NLD5590813F970821091147972<<<<<47,0.023255813953488372,1.0
