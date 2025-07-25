@@ -45,7 +45,7 @@ def evaluate_easyocr(dataset_path, annotation_file, num_images=None):
     config = DATASETS['Total_text']
     lang = config['lang']
     try:
-        reader = easyocr.Reader(lang, gpu=True)
+        reader = easyocr.Reader(['en'], gpu=True)
         logging.info('EasyOCR инициализирован с поддержкой GPU')
     except Exception as e:
         logging.warning(f'GPU не поддерживается: {e}. Используется CPU.')
