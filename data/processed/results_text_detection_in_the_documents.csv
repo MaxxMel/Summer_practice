@@ -1,0 +1,497 @@
+image_path,ground_truth,predicted_text,cer,wer
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_10.jpg,please lower your volume when you pass residential areas,pledse lower yodr volume nhhen vou parby resjdentig areos/,0.23214285714285715,0.7777777777777778
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_100.jpg,diverse tastes flavours the refishing dining dining,relisking the tastes diniing ol diverse ilavours d,0.8235294117647058,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_101.jpg,sale marc,salel,0.5555555555555556,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_102.jpg,st.marc cafe,stmarccafe,0.16666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_103.jpg,exit angkok kok abur path chat,exiil ngkok f pr  path awan chat ghak char taatu chat phqu bur,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_104.jpg,end mile speed gels,end 25 mle speed:,0.47368421052631576,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_105.jpg,aigonlotus,dlgonbolut,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_106.jpg,marina mrt station link marina link parti plan,"marina "" (link mrt uuantt"" slon) ciia (27",0.6739130434782609,0.875
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_107.jpg,@b1 marina more marina link square shopping &dining!,"marinassquare stpping ""liik diningl @b1",0.6730769230769231,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_108.jpg,link b1 dining options shopping more marina this way esplanade station marina: square,"link at b1, & dining more this way to marina 'options shopping station esplanade marina:square",0.5764705882352941,0.8461538461538461
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_109.jpg,love organto love,lovemgia ic far oepanta lole e vecan,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_11.jpg,beware maintenance veichles,of beware maintenance vehicles,0.18518518518518517,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_110.jpg,step choose your toppings oro,6d step choose  'toppios ^ your =,0.5517241379310345,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_111.jpg,defy empire defy ena e,d iek 15ea dbee,0.7272727272727273,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_112.jpg,gold class east village wing golden level 3 next gold haba grab #gvsunteccity lush,coldew vnlaec f east wing nextlo level] gold class | ~grab & gold egvsurccoly #goldchsssunach lush haba 1 ojbo),0.926829268292683,1.2142857142857142
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_113.jpg,sale sal sale sale,vp mta sale] s sal sale v0 sawr t eale 6,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_114.jpg,h&m final sale final sal final farn,faat 9049] enalanalan' 5 salesal im,0.7714285714285715,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_115.jpg,sweats comfortable yersatiuitt defined hara,sheats n comfoataele i [02red,0.5813953488372093,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_116.jpg,fossil uni qlo,e w 90 (l tha fossil,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_117.jpg,selangor,royal ylangor mamm,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_118.jpg,tissot tissot,mssql 14,0.7692307692307693,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_119.jpg,robert timms robert timms,"robert "" timms",0.48,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_12.jpg,those need! care for look care,care fcr thok in needy m cn mau,0.9,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_120.jpg,sincere,sincere une,0.5714285714285714,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_121.jpg,esprit enjoy great deals privileges suntec exciting sincere city that gives you,ladthat rivos exciting fl privileges enjoy ereat deals isuntec city  hkaa d esprit ~oshm,0.6708860759493671,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_122.jpg,sale further reductions giordan gap off off com,gioaoan gap 50 off lon fuztner ~reouctous sa salel,0.9574468085106383,1.125
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_123.jpg,giordano,giordano,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_125.jpg,sale cafes and restaurants shops food more republic giant hyperfresh fountain suntec money chang office sale sale cotton new now,on nu more shops cales and restaurants food republlc glant hyperfresh fountain of we money chan kaes suntec office tr aomod ootton [ ses,0.484375,0.95
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_126.jpg,dining and continues shopping remaking city you for your support,vly op dnd vou foryoursywt 9 temafngr  shopphga tobte  dnne,0.78125,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_127.jpg,special robinsons sk-ii,specal ski akoxhwur,0.6521739130434783,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_128.jpg,sinclare,skincare losahanle,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_129.jpg,raffles city,rafflescity',0.16666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_13.jpg,chevron premier hsbc hou,mo [eatacheot hsbc prere,0.7916666666666666,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_130.jpg,robinsons tht,arounyon' mm,0.6153846153846154,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_131.jpg,market place cierge british,marketplai] ell rce brtisk,0.37037037037037035,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_132.jpg,sacoor british,british sacoor,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_133.jpg,shops jacobs sale british marc india sale restaurants raffles,crdzz 23777 britishindia ae by marc jaco8s,0.6229508196721312,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_134.jpg,sale british,sale britishiiv = .,0.5833333333333334,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_135.jpg,dont panic,dont pahic,0.1,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_136.jpg,place bright rket walk,39 3 5 rketpictt 3,0.8181818181818182,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_137.jpg,jacobs marc marc brothers dia,r dia jacobs marc b y marc brothers,0.4827586206896552,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_138.jpg,desigual desigual alluti further tions,dea' ak deeigual ton dcelgual funther,0.6052631578947368,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_139.jpg,precious thots,meqousth _ ts,0.5714285714285714,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_14.jpg,the future communications venting ntelligence.,venting the fuure ntellzence contt ,0.782608695652174,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_140.jpg,sushi sushi the kimmic precious place,sushi ter lus f raubsih ldtio,0.7027027027027027,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_141.jpg,noodles pontian wanton,4} s gn4 605 l a 47420 = 424 9e42 [380 rbaa ipontan 1te mxds (ubtbn /,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_142.jpg,ope early opens toast daily and your important,toasti! | we?reiy 66c1a ke 'fraer 15a ror risnuneena den lu opens 73oam dally,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_143.jpg,food place give your boos,giveyour xz boo(,0.64,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_144.jpg,such hoon fried meal most early open work toast opens,(6_7mbersca la ihedren wekbhn x eptrdd di oppls t3am],0.8867924528301887,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_145.jpg,place food the,"uu' ""g0 pnce",0.8571428571428571,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_146.jpg,copper chimney,{ (lal; (ljumer cotec,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_147.jpg,copper chimney north indian cuisine,cobwrc 46256- ] 3 ctimte) nokihidtaa cuislf e,0.7714285714285715,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_148.jpg,express,express',0.14285714285714285,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_149.jpg,skecher 2015,skelher: 2015,0.16666666666666666,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_15.jpg,reserved seating pintu,"seating pintu 'eddri uilai "" he reserved",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_150.jpg,sons fox gracious,sons gracious ru,0.4117647058823529,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_151.jpg,lver sale,i 13 sald,0.5555555555555556,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_152.jpg,cedele court echuan mikuni maharani sahi carpets stern beauty sol,aol beaut ftr carpets ~a| naharani mkuni emuancourt cedele,0.7538461538461538,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_153.jpg,move. nourish believe,3 9 g,0.9047619047619048,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_154.jpg,sale,9,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_155.jpg,start earning stars top all,on dtall top start eaming stars 6,0.8148148148148148,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_156.jpg,robinso,robinso|,0.14285714285714285,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_157.jpg,giordano ladies spenc,sping gordanofadies,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_158.jpg,topman topshop many items off,tqpman fopshop wahy %os,0.41379310344827586,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_159.jpg,latu  e cap cafe use,use cnr cafe latunte,0.6,0.8
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_16.jpg,reserved seating bag for dow better smoking,bag dov for a bettep jono joruno reserved seating,0.7906976744186046,1.2857142857142858
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_160.jpg,g20 sale sale sale hue sale geox,sl she i} 70t go sale le,0.59375,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_161.jpg,geox geox,ji,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_162.jpg,nauti,nnauti,0.2,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_163.jpg,dorothy perkins,dorothy i perkis,0.2,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_164.jpg,sale new sale further sale lines added,muaumm) mp 4 5q8 z % linds new aqdhd,0.7631578947368421,1.2857142857142858
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_165.jpg,new desigual further lines sale 50% off,sok weil decllal sale 70 70 afia kcs,0.7692307692307693,1.1428571428571428
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_166.jpg,sales sale 70% etam -70%,letam sale upto 70 223 70 let -70,0.875,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_167.jpg,robinsons,minnsons,0.4444444444444444,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_168.jpg,shop,pshop,0.25,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_169.jpg,godiva brooks brothers sale,sx rrooks rbothers godwa,0.5185185185185185,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_17.jpg,haugang ave (upp serangoon rdj,hougang (upp_serangoon rd) ate,0.36666666666666664,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_170.jpg,godiva belgium 1926 goat 2015,6 201' godiva 1926 iktvium co,0.7586206896551724,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_171.jpg,omega omega,omega omega,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_172.jpg,aigner sale sale,aigner sall isch,0.3125,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_173.jpg,part the art connector,sacu ge be part uf the art connector,0.6363636363636364,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_174.jpg,exit marc sale british,txit maa british. - fnt,0.6363636363636364,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_175.jpg,50%off ore pop our sale 15-jan,"dzshss, sale 50%",0.7666666666666667,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_176.jpg,strip pop our sore #01-15,popbequrtmr a #01515 2314434 jtj?,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_177.jpg,pop our ore ai #,"3 a44 ] jn6 pop byqur jepp3mmno964o6"" etksre",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_178.jpg,buffet toast breadtalk ind town epidor bangkokjam box,ixdi totn breadlalk clh buffet cpidor bangkoklm,0.49056603773584906,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_179.jpg,toast box beery thirsty? $10 fortwo,beery thiasty? g 6  + - s1ofortwo 9,0.6857142857142857,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_18.jpg,exit i2r,bam (zr uuuil,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_180.jpg,epidor bread talk,(opidor) s 8  70.744,0.8235294117647058,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_181.jpg,epidor,8pidor],0.3333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_182.jpg,cocoa trees toblerone m&m,coco4 trees toblerone,0.2,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_183.jpg,cadbury,cadbuty ),0.42857142857142855,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_184.jpg,everyday specials,everyday speclals,0.058823529411764705,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_185.jpg,podi,podii,0.25,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_186.jpg,comnam,connam^,0.3333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_187.jpg,london crahtree evelyn mt. sapola,ol sapola 3,0.7878787878787878,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_188.jpg,mph bookstores,mph bookstonts,0.14285714285714285,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_189.jpg,hair billlie,biillie,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_19.jpg,west coast way pie,nay wnest net coast pte,0.7777777777777778,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_190.jpg,house,qbh@use,0.6,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_191.jpg,house,qbhouse,0.4,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_192.jpg,water fire hosereeh wet,fre hoserh wer 77,0.5652173913043478,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_193.jpg,choices house,kn hquxe il' is 0vy,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_194.jpg,@smrt,lnecaulle @smrt,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_195.jpg,experience fibre here experience open public. free admission.,experience ribre here to urpene open  publlc: free [ admisslon:,0.22950819672131148,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_196.jpg,since 1954 burger king,719s4 kna ~sincr,0.7727272727272727,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_197.jpg,heat eleven welcome eleven eat,2 llcou eleven jmei,0.6,0.8
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_198.jpg,free open inn public. ood admission.,2 open to  free aam a public: admission:,0.6111111111111112,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_199.jpg,explore infocomm poss eat,poss infocomm ore explo,0.48,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_2.jpg,joint yourself 154 197 727 198 20029 free from pain,20029 97 [154/197| [198 {727 free yoursell (rom joint pain joihtru,0.9411764705882353,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_20.jpg,beyond four walls join classrooms now dring you world the,3 8 r 1 b 1 1 {,0.8596491228070176,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_200.jpg,house,d,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_201.jpg,comnam spectacle,(qmnam,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_202.jpg,faster than you can etam say gift wrap please tap sale sale tap the faster ivay pay.,feseth teles 70742n 74 tap zc0 muet 2fro eennjdtodk,0.75,0.9411764705882353
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_203.jpg,food food directory hotels fairmont singapore prego court kitchen the stamford swiss bar level level sale accessorize sale mastercard woobo,", chlos & fond hotels rurisoric cnttden sutaedit tha stamntotd cst oen food directory sad 287720",0.7050359712230215,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_204.jpg,christmas sale it's big and it's,"che""stmas he sale its big 0m hdtsc",0.40625,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_205.jpg,tissot victoria's,seca iseot victorias,0.4117647058823529,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_206.jpg,rolex,rolex omet,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_207.jpg,art ode not,one toatt,0.7272727272727273,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_208.jpg,uob,uob *06,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_209.jpg,city mrt office tower sumosal,mrt on li ubloo g od ollce tower sumosel,0.7241379310344828,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_21.jpg,beast city $20 lost food ggulden unseen unseen,320 fen gguint n en 2,0.717391304347826,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_210.jpg,chocolate,chocolate,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_211.jpg,guardian,r [,0.875,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_212.jpg,aster exit,aster,0.5,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_213.jpg,directory,directory,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_214.jpg,place din there's always that special the areas live.,1 dtn6 theres always tat place in the arcas we live: special,0.5471698113207547,1.1111111111111112
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_215.jpg,exit $8.80,exit,0.6,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_216.jpg,browhous,bro | shous,0.5,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_217.jpg,market place court odi podi exit subw,m 0 3 sbw marketi icotm mautt p o p 'odi,0.8918918918918919,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_218.jpg,robinsons elizabeth mac biotherm sale,ror eliz;beth aral 9 sale = 702 raac jbinsons),0.918918918918919,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_219.jpg,tommy hilfger,iger hile tomhy,0.9230769230769231,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_22.jpg,toffifee,n! toffifee ,0.375,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_220.jpg,swatch,swatcht,0.16666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_221.jpg,ios ump sme 50% off,7 8 upto 503 lp,0.631578947368421,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_222.jpg,spaghetti goemon,spaghetti goemon,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_223.jpg,any sis,sts any=,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_224.jpg,dr. cafe coffee the body sthes,@cafe coffee,0.6333333333333333,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_225.jpg,coffee rare bits,eheeie coffee,0.875,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_226.jpg,50% off! sale,507 'offy sale,0.23076923076923078,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_227.jpg,eett dockers figger,et dockeas i9qai1,0.47368421052631576,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_228.jpg,sex,k toh 7 1s sex,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_229.jpg,esplanade theatres the bay,the bay on theatres esplanade,0.6538461538461539,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_23.jpg,emergency stop plunger,emergench slrd plunger iai,0.36363636363636365,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_230.jpg,esplanade theatres the bay,esplanade -theatres on the 8ay,0.19230769230769232,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_231.jpg,fire ose reel,ciite 1n871 fst,0.9230769230769231,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_232.jpg,carpark,carpark,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_233.jpg,esplanade 14-17 2015 corsaire theatre,le corsaire m-1742019 | eoplnedo thootro,0.6486486486486487,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_234.jpg,happy hour,kary,0.8,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_235.jpg,concert theatre hall,concort hall dold thentre l,0.75,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_236.jpg,lift meets passages restroom carpark,lift tntre pae4088 mele /raatroom to nat to 810782 cacaeia,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_237.jpg,passages meeting point theatre,ll meedng pelne treete passaeas,0.8,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_238.jpg,the esplanade ltd library esplanade theatre roof lift,"the esplanade colh mbrary esplania thetr stuc root terna, lut",0.4716981132075472,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_239.jpg,nets axs,as lets,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_24.jpg,converse,convers?,0.125,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_240.jpg,kenko,kenko,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_242.jpg,esplanade library,al fesanna,0.8235294117647058,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_243.jpg,mandarin oriental,mandalin orienia,0.17647058823529413,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_244.jpg,brenner chocolate bar,bar aax brenner chocolate e,0.5238095238095238,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_245.jpg,toast box,toast box toim,0.5555555555555556,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_246.jpg,top two finest leaves bud,fas lofla 6 mrtsd mo a1mnd [ jtop: leaves e,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_247.jpg,queen,sg 50 ~dueen,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_248.jpg,charcoal the bay colour,321{2141 by easea lete @ sted eeq colour ba the,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_249.jpg,molly roffey s rush esplanade,"molly, roffeys p 'rh  cspladade",0.3103448275862069,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_25.jpg,fairprice finest,fairprice] ffest,0.1875,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_250.jpg,giant toast box,toast box,0.4,0.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_251.jpg,savings dbs dbs giant uob hyper citibank value b1-150-15 9am-,"laut #aviee dbs dbs vod cinbank valua e -5 ""81-i5i halo 6116 era",0.7704918032786885,1.1
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_252.jpg,fountain east atrium food republic exit restaurants wealth hypermarket golden village,fountala ot woalth coodrreaerent hyporearkat age east atrium exit golden,0.611764705882353,0.9090909090909091
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_253.jpg,food repu soup traditional alk',e (vpv} [pood 4813 lo,0.8064516129032258,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_254.jpg,crystal taxi next towe,iue c to tax $ doai iril mbu (next g,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_255.jpg,2015 happy special fish pepper monthly new year,modituy htta 30i5 furu fenee happy yeary neu,0.7872340425531915,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_256.jpg,gold class level village golden grab gold east,goldew vllagl level 3 wcadto 'grobo gola gold class  c kast c,0.7391304347826086,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_257.jpg,10% coca cola three 10% it's,on @cagcla 410 40,0.6428571428571429,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_258.jpg,exit,iext_,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_259.jpg,open sale,sale50% 0l wc ar opth,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_26.jpg,mitsubishi jur town hall 197 aye electric star air mex better the conditioner,3 lo the 197 jur town hall ed aye mitsubishi electric starmex air-conditioner better,0.6233766233766234,0.8461538461538461
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_260.jpg,sha,v sha]  ~shabu,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_261.jpg,stro leaf bean peperoni,0 p?? ton,0.8260869565217391,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_262.jpg,peperoni pizzeria peperor,dntar peperoni,0.68,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_263.jpg,promod,promod,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_264.jpg,thank you,thank you tc,0.3333333333333333,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_265.jpg,braun buffel giordano exit,iaulp tbino ili,0.7307692307692307,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_266.jpg,swarovski levis tm lewin,jar e swaronx,0.7916666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_267.jpg,dockers storewide,jlns dat 50% 25 dockes etortide,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_268.jpg,sephora tvo,gtc6liey stmou,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_269.jpg,lee hwa diamond gallery seph,"seph lee"" hna  diahond ' cnie",0.7142857142857143,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_27.jpg,open qbhouse,on m qbhouse,0.25,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_270.jpg,vine vera skin care, mine ver (on,0.5263157894736842,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_271.jpg,lush gold class grab gold japan sale,muaut r# hara jll cla sg kune| japan vo =6 unce] lc lushaaw mhetn gold  atal,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_272.jpg,onsen,nsen,0.2,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_273.jpg,sports world fendi fendi museum discover,0o0 of 8 ldcovr! fendh don nomd (um,0.75,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_274.jpg,crocs 50% sale dior,509 crocs odos 8,0.7894736842105263,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_275.jpg,hoamgar netb jcb,holygar nte,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_276.jpg,dior now book jan gucci 2015 backi dior,nok on gucci fs baca( ~doort zuls ( jior,0.7692307692307693,1.125
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_277.jpg,royal selangor,royal selangor,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_278.jpg,byst,45,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_279.jpg,dr. cafe coffee,0 coffee {cafe,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_28.jpg,nam library lecture wee theatre lee wat exc comi cha,lee wee nam library watc exc ia cha lecture theatre ' comin,0.6730769230769231,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_280.jpg,jewerlery street singpost shu uemura shuateler,lwtelerystaret aerest 1a954 tuaa=r suuamua jo,0.6521739130434783,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_281.jpg,again ion orchard ald wheelock place,again at ion oron wheelock place ald',0.4722222222222222,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_282.jpg,stradivarius mango,mangq gxredmly,0.8888888888888888,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_283.jpg,the coffee bean coff tea coffee roasted arabica cbtl coffes ssi,{ecoffee acx hor iomr rqisted #reshdail bean,0.6031746031746031,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_284.jpg,swarovski fragrances,fingrnces,0.65,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_285.jpg,exit standart swarovski,exi> sudi swarovski,0.30434782608695654,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_286.jpg,diane furstenberg maxmara,"tn' diane jaon"" dste maxmara",0.6,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_287.jpg,bally,kall),0.4,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_288.jpg,dior stage,on diot sunoe,0.7,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_289.jpg,patek philippe,patekallipe 64,0.5714285714285714,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_29.jpg,$50 zalora purchases the next day! sign-up shop collect only notes available here atm for,"501 dbyl only hwere thc ovallable hert atm kshin-up ehop ""celect hor 51 tt ne nole ss01 zalo ra purchaso e",0.7752808988764045,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_290.jpg,exit,ex,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_291.jpg,laneige sale sale grand grand anniversary anniversary,grand angivadary anniversary salesalll laneisl,0.6981132075471698,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_292.jpg,collectpoint sale sale poix,mug cdlecipoit mml,0.7777777777777778,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_293.jpg,coffee club,5 3eiqan07 clulea soffee,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_294.jpg,kids kids,deo kds kds,0.6666666666666666,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_295.jpg,sale sale sale sal sale sale,s oluuk 70 cal snfeos maes,0.6785714285714286,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_296.jpg,starbucks coffee paris baguette cafe,starbucrs coffee paris rncuetietyi,0.2777777777777778,0.6
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_297.jpg,omega paris oma exit,paris iom omega,0.65,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_298.jpg,jewellery nale grand,6 nu ni 84 ' rilen iaa9,0.95,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_299.jpg,lee hwa diamond gallery,ata lee hna  diamond o gnlery,0.43478260869565216,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_3.jpg,block 441b storey,co 39 37413 ele,0.7647058823529411,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_30.jpg,mrt 140m insead,mrt 140m - insead 34e,0.4,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_300.jpg,omega omega gla    illo swatc sale,(odille ondc 70 503 50% swteh omega sale,0.8235294117647058,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_301.jpg,timewise,l3 tmewise bo we,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_302.jpg,sale now sale sale haagen,"saile hom cet sale hoogen dey""",0.56,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_303.jpg,concierge gap,concege,0.46153846153846156,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_304.jpg,allwatches sinc,allwaiches,0.4,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_305.jpg,steamed pork dumplings dintaifungsg www.dintaifung.com.sg,stumrd pork dumpling /' je [0 f dintailungsg ww. dintaifung eom.fg,0.3508771929824561,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_306.jpg,exit,bi exit,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_307.jpg,ben's sale,bers ( 1 kht,0.9,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_308.jpg,sale grand anniversary setan,grand anniversary sale escuan,0.42857142857142855,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_309.jpg,grand anniversary,"""d aiiierssicyy",0.6470588235294118,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_31.jpg,art needs art needs art needs exit,ar i art an neess 6 needs needs,0.47058823529411764,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_310.jpg,ngee ann city exit gnc gnc,b1 yjvma ngeeanncity tio gme e (ir,0.8076923076923077,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_311.jpg,sat,sat,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_312.jpg,opening soon gifts for all your girls,"gilts for"" dlvour 888 dr nntr",0.7837837837837838,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_313.jpg,scotch soda amsterdam pening soon vueda,scotchasodi ansterdiv etar peni sgo,0.48717948717948717,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_314.jpg,shop,dy shop,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_315.jpg,tsc special club monaco,s speghl (nalaknsc l ? monaco club / ibdomid),1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_316.jpg,club,"mon club ,_ 6l4",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_317.jpg,sale up to off mango,iigos {sale dt0 70 06 jns,0.95,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_318.jpg,further discounts off,ac4i 2 ghie further discqunts,0.8095238095238095,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_319.jpg,exit,ex 6,0.5,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_32.jpg,hi-tec,fln 120 gki-tec,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_320.jpg,gift ocean,g ocean,0.3,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_321.jpg,club monaco aveda,club  monaco,0.4117647058823529,0.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_322.jpg,louis vuitton,louis vuitton,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_323.jpg,fendi,fendi q,0.4,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_324.jpg,the world oys,worlo the ismyol,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_325.jpg,st. maarten st. oyster rld,a 3 stmakton str grld my oyst ~,0.8461538461538461,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_326.jpg,money changer kinokuniva,"jmat"" iahdhat kinokuniva 6 kotn qunger",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_327.jpg,books kinokuniya knowledge new chapter one money changer,montchang? :: anewchqpe tedod-o boors kinokunp ' koowele; -obgil,0.9107142857142857,1.125
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_328.jpg,paul salon the restaurant paul,dimg maul paul love saant,0.7666666666666667,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_329.jpg,new chapter knowledg,ck knowledg anew c ichapter ! bed,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_33.jpg,li-ning sale head head,viet head yo,0.6818181818181818,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_330.jpg,special ped der red tsc,ped der red,0.5217391304347826,0.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_331.jpg,exit swatch,chane dxa euokcht exit igle,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_332.jpg,calvin klein exit swatch,exit celvin klein suatch,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_333.jpg,calvin klein swatch o-factory exit,celvn klen  swatch- wtnctony,0.4411764705882353,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_334.jpg,fedex orchard,fed,0.7692307692307693,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_335.jpg,paragon sale,meky) c  cara 6 0 n,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_336.jpg,guess tods,guess i0ds jod?,0.7,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_337.jpg,the soup spoon,tne soup spoon,0.07142857142857142,0.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_338.jpg,breadtalk,breadle,0.3333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_339.jpg,the soup spoon,spoon  4sm nesoup,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_34.jpg,note? samsung galaxy you note,"do you note? sxteng galay! ku""",0.6896551724137931,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_340.jpg,breakfast spoon the soup,spoon the soups,0.4583333333333333,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_341.jpg,the soup spoon,[he spoon soup,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_342.jpg,50% off sale,"mi "" 509 off sale ls",0.75,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_343.jpg,make store northern,make up store,0.5789473684210527,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_344.jpg,store,stor e,0.2,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_345.jpg,eauty pamper skin! perfect,my 6 6a o oec)t pamper skin!,0.8461538461538461,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_346.jpg,smell sexy all the time!,0 all the 6 ~smell  'sexy tmei,0.75,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_347.jpg,star threesixty,tarthreestty,0.26666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_348.jpg,warehouse geox,warehous,0.42857142857142855,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_349.jpg,sale,sale,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_35.jpg,samsung,shusuug,0.42857142857142855,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_350.jpg,sale china sale images paragon sale commune,imageso china comune' sale jala e 70: sale sali,0.6976744186046512,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_351.jpg,dome paragon,l4 paragon dolae,0.8333333333333334,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_352.jpg,dome,dome,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_353.jpg,coast spencer,mi spencer colhacu,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_354.jpg,christmas for pl   ect,lct for christmas pi,0.8636363636363636,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_355.jpg,paragon main directory,paragon daicion,0.45454545454545453,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_356.jpg,bread butter harc marc jacobs,6t evorny ure jacobs marc arc butter ireadi,1.0,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_357.jpg,mulberry,(herry mui =,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_358.jpg,boss,boss 7,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_359.jpg,poh 313 heng orchard shopping poh hen cen,poh heng orchard shpppmz ea poh heng tlg 313,0.43902439024390244,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_36.jpg,ryoshi sushi ikeikemaru,rtoshi sushi ileikemaru,0.08695652173913043,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_360.jpg,opping advertisement space space office,75 pavestisemeng coret din monico 625288 cpping cetbe 1 1,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_361.jpg,robert timms 321 sayour,+71ms rabett f 3],0.9130434782608695,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_362.jpg,timms for taste great uob the step outback robert,8244g8 hase -vob,0.8367346938775511,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_363.jpg,your steak claim! robert timms your your done stake way! ntre,stake your qi,0.819672131147541,0.9090909090909091
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_364.jpg,orchard centre sprinkler valve shopping,orchard shoppinc cemtre 2 sprinkler valve,0.5384615384615384,0.8
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_365.jpg,parking the entrance the carpark order the management,at no of the the 67 032 te vawkgdet parking entrance carpark,0.8301886792452831,1.375
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_366.jpg,sale ale sale sale sal sale sale sale sal sale sale sal,sale 3f 3 ale sal u_e *e9l e sal m sale,0.4727272727272727,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_367.jpg,new cotton,on (  holdeeicuoy,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_368.jpg,new now graphic tees for victoria's,sls aw grapelc tees victoria$ eujdy 2ews30 `,0.7428571428571429,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_369.jpg,new now the,new nuw victorias ied,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_37.jpg,expert beaute,"""o1x obeaue",0.6153846153846154,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_370.jpg,forever forever mango sale ale,8 z1 hajiqg suit forewer motjiv sale,0.8666666666666667,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_371.jpg,forever orever,942 hu 1 poiqg forever,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_372.jpg,epicentre guess lady's ecco sale,epicentre j wdnj ew u6l guess a act,0.65625,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_373.jpg,epicentre guess,opicentre gues,0.13333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_374.jpg,ntre levis sale,50 ntre sale,0.6,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_375.jpg,evis lady's ecco sale,e eagtds evus ladys,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_376.jpg,sale sale ecco ale eastern watch,mnwo up 0 b0 1 359 3 1 1 eastern  watch,0.6875,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_377.jpg,sale soldes sal oldes sale solde sale,"fu spes,o8 50 vone",0.7567567567567568,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_378.jpg,sale exit,sale (umttn,0.5555555555555556,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_379.jpg,fossil,4,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_38.jpg,concierge@l3,concierge@l? x5,0.3333333333333333,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_380.jpg,epicentre,cplcenkre,0.3333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_381.jpg,exit orever sale sale sale,bunt rever 27? salei,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_382.jpg,sle sale sale sale,4 ln llo sele sale sale sale d,0.6666666666666666,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_383.jpg,sale public,publlc sal iaa,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_384.jpg,fitting rook rival,38 fitting book pnal,0.3888888888888889,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_385.jpg,ecoil,kcoil,0.2,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_386.jpg,timberland pho    a,ttald,0.8421052631578947,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_387.jpg,nine west recoil sale city,nine west reloil la,0.34615384615384615,0.6
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_388.jpg,off xmas off sale w.e. w.e.,wwii xmas sale 10% off 15% off in/,0.9259259259259259,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_389.jpg,w.e. workshope walkin,4wi eeaelu #mi uu #ou mi folie wcibikshopil mllu woo,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_39.jpg,exit unshaka at high speeds.,exito unsheka specds:,0.42857142857142855,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_390.jpg,#22 workshopelem,quol4o 1vciricshoptm,0.9375,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_391.jpg,rauco nine west,"west nne""",0.7333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_392.jpg,sports outlet sale!,4274 sports outlet fi ce,0.5263157894736842,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_393.jpg,closing down sale! sale,closing  down _ salel t,0.34782608695652173,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_394.jpg,sports stor closing down sale!,sports fi jtlet stor closing down salel,0.3333333333333333,0.6
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_395.jpg,les ball park,ball e ueil park les,0.9230769230769231,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_396.jpg,your new era fly make own flag,new htzuoijiq fly your own k era flag,0.7666666666666667,0.7142857142857143
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_397.jpg,classics made america. goal,"scal d made in amerca classics,",0.7407407407407407,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_398.jpg,classics. nstinct america open made exit over goa,gok bul made in amerca lope'| nstinct kes ovet classics:,0.7959183673469388,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_399.jpg,bong.,jbong,0.4,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_4.jpg,nus,snus te kolertla,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_40.jpg,bread talk bread talk caf脡 ca.,breadtalk cafe breadtalk ca,0.43333333333333335,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_400.jpg,sale,fall,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_401.jpg,tokyo,i,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_402.jpg,sale ribec,sn 505 pos 20  mdrc,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_403.jpg,sale further discounts,"di nantv salel ""aotjiv further discounts ,",0.9090909090909091,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_404.jpg,forever fore er,fopever 21 fur e ol r,0.6,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_405.jpg,epicentre victoria's secret victorias secret,mos 4in) iwsoq victorlas secret mctoala oplcentre san,0.6818181818181818,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_406.jpg,victoria's victoria's victoria's victoria's secret secret secret,victorias secret iictodiat sica victoria$ sicalt s secret victorias $,0.5,1.2857142857142858
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_407.jpg,sale sale sale sale,sale sale sale isale,0.05263157894736842,0.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_408.jpg,redemption eic club313 concierge 313,rpocmitiom 8 iutr e club313,0.6388888888888888,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_409.jpg,lamy city ain yellow,wj iain ielln city,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_41.jpg,creativity tape market,creativityi mastus mabrtt,0.4090909090909091,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_410.jpg,spa symphony chabu chanbuton,uaah) leardocl 'chaduton s1pk sykk kmon,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_411.jpg,exit chabuton,jexit ivuno s+fr 2hz?5bn chabuton,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_412.jpg,end seas,va ,0.875,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_413.jpg,deals set kitchen chicken holiday platter 0.5,idealg ` 65 cid okta gy (holiday platter,0.5111111111111111,1.1428571428571428
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_414.jpg,candy empire,candteta,0.5833333333333334,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_415.jpg,"holiday platter $5,50 candy",eud clalsb platter 350 85 holiday,0.7037037037037037,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_416.jpg,sellers exit,stslrrs exit,0.25,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_417.jpg,galaxy amsung,n amsune,0.5384615384615384,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_418.jpg,owndays,udl ownday $,0.8571428571428571,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_419.jpg,exit #b2-02/03 saboten,exit 5 02/0} saboten jta,0.4090909090909091,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_42.jpg,a/x klein jeans klein jeans calvin sale,litiecwt t99 $ 406 0 @kenbos 8,0.8205128205128205,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_420.jpg,toast box,7ob toastp rni tu,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_421.jpg,more get jay gee card 70%off sale your $100 voucher citibank sale merry,atibank sam  70 jay gee card jomber get mard % get s100 'voucher sale your mereh 70 off,0.7464788732394366,1.0769230769230769
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_422.jpg,now sale 70%off sale merry sale,yale 708 sau] on su now merri,0.7741935483870968,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_423.jpg,$108 denizen $150,3108 oloun 5150 biv,0.7058823529411765,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_424.jpg,samsung tokyo,mksung,0.6923076923076923,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_425.jpg,louisiana exit candy popeves kitchen,exit$ codt daete loulalana rutehan ooer 4ers c lo,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_426.jpg,orchardgateway,orchardgateuuay bin? 079moz qel?,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_427.jpg,the body good sale sal,the sh s0 good miu he body=,0.6818181818181818,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_428.jpg,underground sale waka,uraergiotnd [eoepord she mivor,0.9523809523809523,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_429.jpg,ground waka sale underground,groud maral unurpd sale imic(,0.7142857142857143,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_43.jpg,samsung,samsung,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_430.jpg,louis,"""[ lso",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_431.jpg,orchardgateway @emerold natural,"orchardgateluov emeob ""tun] hlie joue",0.6774193548387096,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_432.jpg,crate&barrel,cxdtatrane,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_433.jpg,the underground fashion street,{underground iashlon ttreet,0.23333333333333334,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_434.jpg,blush!,e,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_435.jpg,starts price service battery straps watch from $10 casio,"fica slans fcoo sld watch   straps, service & battery",0.7857142857142857,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_436.jpg,great lumi nox swiss made sale luminox gear always visible,nov 761n l_ lla h sale 'md ~swiss odtntiat orar 0rd,0.8103448275862069,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_437.jpg,coldwear coldwear sale,goldwear yb0' coldwear,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_438.jpg,super sale omg! her beega,d o0 6a uuct s 80 herc 'super ,0.88,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_439.jpg,sale off under armour,"264 iarmoua uidea/ ' .' ,",0.9047619047619048,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_44.jpg,kinokuniya manga manga,ikinokuniya manga uaga,0.13636363636363635,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_440.jpg,dorothyperkins perkins #01-12 level,l 6 1 whyperkin  b01-12,0.6285714285714286,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_441.jpg,your way after shopping! chocoolate indulge,"4oup qjur = ] iuuulge toy ducqiyg""",0.7906976744186046,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_442.jpg,313@somerset olate,5 313@somerset,0.4444444444444444,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_443.jpg,march茅 bar,oe (oc: mardhal ssua,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_444.jpg,exit malones irish restaurant bar,8 qdaloncs irish txuctice bar restaurant,0.7272727272727273,0.8
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_445.jpg,asia's orchar trans sk-ii grange first supermodel and taiwanese actor,ski firu and actor 'orcharl lannce roo transt supcrmodad himangscor,0.6811594202898551,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_446.jpg,mandarin,ilabddadin,0.625,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_447.jpg,mandarin gallery,mandlatl mgallery|,0.375,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_448.jpg,mulberry bread butter,8 fn mulc lberry bread ? l buiter ,0.6190476190476191,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_449.jpg,exodus showing now showing now exit and kinos,exit now now showing endolitotol ex 'shomino rigm 0dus eiton 000s,0.8888888888888888,1.125
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_45.jpg,pumpkin the big patch patch sale fox zony,pumpkin palch fu ibig le,0.6341463414634146,0.875
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_450.jpg,showing serena now hobbit pact now showing,now showing non_apirng fal serena,0.7142857142857143,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_451.jpg,seventh puteh into the kachang real exit son,(ex kachang puteh 0 vaata :tmn 2 intatelo,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_452.jpg,everything theory into the woods cathay real cinemas 8-jan catha jan,' catiay ev veheorysg 8 2 in cinemas january 8 into the woods cahate,0.7794117647058824,1.1818181818181819
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_453.jpg,cathay theory everything cinemas january mortdecai,#theoryq cathay everything in sjanuary  mortdecat (cinertas],0.56,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_454.jpg,mortdecai cathay cineplexes january sophistication nam,"807'05!// ^lm ma$ a mortdecai m (at//y ( 10""1""0 /| 919 january",0.9629629629629629,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_455.jpg,showing exodus next now taken showing exit,exit how ezo5u3 ishowing,0.6904761904761905,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_456.jpg,charlie brown epper lunch brown chaxlie,epper lunch charlie brown cai,0.6410256410256411,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_457.jpg,charlie brown,d 4y9 bkown ca75 c 8_ charlie 0 8,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_458.jpg,cathay real real real cineple free movie,"huve 9 0 w 16g1"" 0 2 2 ycneplexes t incathay ( 8",0.975,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_459.jpg,gentlemen's outfitters ready made made,m gei fttters 0u rerdy:riade uade to mesure,0.7631578947368421,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_46.jpg,house qbho,bho qb house on,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_460.jpg,psb months after,12 [12 months noro psb after,0.9375,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_461.jpg,time psb diploma,12 in 12 mor levels: psb diploma,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_462.jpg,fleshimp. round day all year whole www. com tamania,all www fleshimp wholedn com in year round,0.7843137254901961,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_463.jpg,festive sale,fesive sale ',0.25,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_464.jpg,boards singapore's premier online skate store,singapuas premier online store skate isnu o,0.4888888888888889,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_465.jpg,office,woffice,0.16666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_466.jpg,show our president's challenge donate bit. care.,donate oorls 's challenge  we care: dour bit: president' show 0b,0.9375,1.4285714285714286
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_467.jpg,sticky,irk,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_468.jpg,che  s ies leve hyperion 00:00 9,02: 1 utr m asiu)n 33a 1e l?:,0.875,1.1428571428571428
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_469.jpg,cafe seoulgarden hotpot,gulidy ce seoulgarden hotpot,0.34782608695652173,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_47.jpg,just adidas sale adidas kechers run. crocs sale liday,kechers adkdas crgce ~stiun: sale iale,0.660377358490566,0.8888888888888888
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_470.jpg,clearing station service haina chicken,clearing: stalion_ servicia mhlaina chichen,0.21052631578947367,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_471.jpg,with,ng,1.0,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_472.jpg,fish,mr&5 fish so,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_473.jpg,tree potatoes games hunger starbucks,ree na aet ni yagomlad 2 1,0.7222222222222222,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_474.jpg,lunch crunchy freshly specials,~_ lunch s specials  te; eee _ 5ee 3o/,0.9,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_475.jpg,ebate sale gio enjoy here ocbc bank,sile 'enjoy 59 here s09 rou 'ebate ocbcbank,0.8,1.1428571428571428
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_476.jpg,sale personal shopping off level level level level wear women's wear book concierge kitchen ladies from level enjoy sure,"4 veat 56 3 3iee 5noo, 8oq' cotb level 2 euv (ul level ceneieroe knicnain b1 0*49*/05i & foc] b b b4 8 4 0 5 level 2 8 womtn  shle 8 level accriot iggt /iici ( fittaa {ncusi uil jhopring  tot shopping , personal = 3 0 0",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_477.jpg,topshop price sale,kdle topshop ipte,0.7222222222222222,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_478.jpg,spa nail,po m spa,0.875,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_479.jpg,exr jim fujifilm everlast exr,tnil wusl fujkfilm  nel,0.6551724137931034,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_48.jpg,for wealth sale uob the event pping ger,hfg cai the mn uob tor event pping,0.46153846153846156,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_480.jpg,sea blue even the deep not 100 can stop us.,5 deen the istoe een an wn se4 blue,0.6744186046511628,0.9
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_481.jpg,cook soma,1 soma,0.4444444444444444,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_482.jpg,bodisciences mind face stay reverse ageing life master,kal podisciences to lfi 4 l reverse ngeing 'mavtin master ate 1c mino jaci ,0.7777777777777778,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_483.jpg,dean,dean &,0.5,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_484.jpg,off season sale 60%,off beaboh sal '60:,0.3157894736842105,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_485.jpg,wesc doug,wesc 3 <,0.4444444444444444,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_486.jpg,the pleatation exciting shops coming new arald11930 cafe mondo central hong kong cafe face+ yamano italiana sans sans tanuki raw galleria singapore mint renanza wellness lifestyle sadrinago the reckless shop,"new & exciting shops comng uf araldivdo cafe mondo fongkong cafei face"" by yamano galleria rinala im an utaliana ne pleataton aon ca sans sans raw anuki sngaporl vk) c/=",0.5652173913043478,0.8666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_487.jpg,yamano face,"by yamano 033x1 nt ch ace pr)r1j 1rh""tten1",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_488.jpg,the calator accha ouse 6636-5830 #b1-39,"ethe aolator to kiccha ""81-39 0636-5830 ""wuse",0.5384615384615384,1.1666666666666667
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_489.jpg,ank origo creation rom ature,"oenturgo ank 0 oin ctwi "" { 9",0.7857142857142857,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_49.jpg,cotton,coffon,0.3333333333333333,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_490.jpg,life j&d too short bad nniiru inc,ien 1a5664 1,0.8484848484848485,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_491.jpg,cold stone creame cold stone creamery cold stone,colde 1 . { 0 3 stone  e,0.6666666666666666,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_492.jpg,killiney,killiney rd,0.375,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_493.jpg,foods classic fine,a d io r classic fine fgods,0.7222222222222222,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_494.jpg,supplies wen globe yong different website www.ywgroup.com.sg tel:777 8100,y yoig wen wt clte jead supplict we m alluxnk _ met hse9ele ese 7c7t 3100,0.7671232876712328,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_495.jpg,plaza corner lors,a cern lors artum fh elaza,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_496.jpg,clemenceau ave havelock cte sle bras basah,clemenceau ave (havelock rd) cte (sle) bras basah ra,0.23809523809523808,0.5714285714285714
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_497.jpg,attached minimum strings spend earn cap promise anywhere 24/7 365,"no strings 0 mnintimn no garn cap tttnb retiee cxkbi inyener 24/7 365 attached, apend",0.9230769230769231,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_498.jpg,cavenagh keep right,cavenagh rd keep right,0.15789473684210525,0.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_499.jpg,except traffic turning into istana domain,into istaha  traffic dcepi turwing domnn,0.6829268292682927,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_5.jpg,speed regulating strips ahead slow,speed (regulaling] strlps ahead islowl,0.17647058823529413,0.6
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_50.jpg,cocacola cocacola,dur @u 3 (onldo (u,0.8823529411764706,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_500.jpg,underpass,underpass,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_51.jpg,baby food diapers milk powder mar darue,16 0 baby food diapers milk idwru 3 powder cle gnst,0.5384615384615384,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_52.jpg,cha look out for next,6 look for char 'nextt out,0.7142857142857143,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_53.jpg,avenue,avenue,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_54.jpg,exit level avenue,avenge exit at level  nor,0.8823529411764706,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_55.jpg,cw3/cw4 715/717 pcs bus berth thank for queueing you cw3 mrt,berth bi cw3/cw4 715/717 pcs bus mi a icw3] t tt queleing for e,0.55,0.9090909090909091
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_56.jpg,334 transit,iranslt,0.5454545454545454,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_57.jpg,posb citibank,atibank posb,0.9230769230769231,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_58.jpg,doraeman pune centas,doraemon,0.65,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_59.jpg,sale temt now temt,tit lad now,0.7222222222222222,0.75
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_6.jpg,doors airob reserved seating,v mha lenin ade! ri- 0o04t reicnagd,0.9642857142857143,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_60.jpg,singapore cruise,singapore ie cruise,0.1875,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_61.jpg,masa,mv,0.75,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_62.jpg,tangs post christmas sale,tangs pest ristnas sale,0.16,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_63.jpg,osim say love you this -70%,ny i osim you chrstos love  ants ,0.8888888888888888,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_64.jpg,garrett dbs,"dbs geia iuwn ~hhyukg,uu,4ve [",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_65.jpg,open parfait ceve tokyo,"5, ^ - parfait eepektom tatyo",0.6086956521739131,1.25
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_67.jpg,fruit freshly cut,hu cut 6 frutt 65  5 freshly s0,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_68.jpg,"loaves rolls pastries for buy value fresh $8,888 $100,000","jooooo 38,888 2 (or valve beln rouls buy pasirib loaves",0.8771929824561403,1.1111111111111112
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_69.jpg,city subway,subway efirc lelty,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_7.jpg,for shop,for lifes shop e @ae e46serln 02 las ba,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_70.jpg,fashi  g exciting shopping boerien,ad beang excitin 'shopping = {perienc,0.4117647058823529,1.2
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_71.jpg,gain city,icity ohin =,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_72.jpg,more shops level2,more shops at level 2 seae eeaninsan 6,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_73.jpg,john little way your cho,hourin 74 ' agnowncd  - little john,1.0,1.4
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_74.jpg,john little oiletreies,john little mnk olleuries,0.3181818181818182,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_75.jpg,exit exit choc spot mouth-watering little john snecks revlon,"em (w tosl thii xoult-walering d leh & uucou llittle o john  6,u 'euts",0.7833333333333333,1.4444444444444444
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_76.jpg,chef tony popcorn chef tonajs,chet (olant popcorn 1aqo] ol tony,0.5517241379310345,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_77.jpg,mee jia sarawak kuching kolo xiang kolo,kolo kuching kolo mee ji nang sarawak 0& 544a464,1.0,1.2857142857142858
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_78.jpg,photo the tastes dining flavours,"the tastes dining} ilavours at aua- cni fxeto (thy ,",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_79.jpg,super festive sale cash spec,festi sale 70 inetat lcrtnat tcin cas $30 9 00 sfeca crw super,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_8.jpg,kappa caution,t kqppo mcn,0.7692307692307693,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_80.jpg,storewide,mivaio storewidi,0.8888888888888888,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_81.jpg,organi singapore reking the,"456  l  1 jorgani c~"" 0 racar",1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_82.jpg,wotso sale your thday month points atsons brand product points nett,m ints in on 30 agops brand ftoee= 'nus roas sale? ra ahe wotsore your month ythday polnts 87a 3 l ss,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_83.jpg,the tastes flavours marina:square dining vichy appetite dining eailian exit ten,"the tastes erse flavours at dining 7. curnvora auelite; nuvo; more, j(t1ooticn marina:sqnuafe tat vichy va 6-",0.8987341772151899,1.1818181818181819
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_84.jpg,tagheuer,tagheuer,0.0,0.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_85.jpg,pan hotel suntec convention pacific centre longines,pan tongnnls d {hotel kentre pacific convention sunted,0.5882352941176471,0.8571428571428571
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_86.jpg,sale sale sale,saee sale,0.35714285714285715,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_87.jpg,sale,1 yic,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_88.jpg,dining edition marina:square the,jkun36 5 do 2 2 dnng warnasquare,0.75,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_89.jpg,exit jollibean make your healthier soymilk everyday!,makterus heallher event (exllv jollibean your on,0.8269230769230769,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_9.jpg,vegetarian,5 vegetariah,0.3,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_90.jpg,more shops ahead ops,dps more shops ahead 3,0.35,0.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_91.jpg,starbucks coffee refishing the tastes care,'starbucks coffee relchug thatasts dyg iluqurn,0.4523809523809524,0.8333333333333334
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_92.jpg,burger king beanstro,beanstro  nunm ! kna,0.85,1.3333333333333333
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_93.jpg,burger king,""" fi 2 (burger king",0.7272727272727273,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_94.jpg,kfc,po hon kfc,1.0,1.5
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_95.jpg,edition dining mandarin hotel the marina tagheuer marina link mrt cro,ccro- kurn} nundarin hotel tne dinina edrc hum lat amat tagheuer,0.5942028985507246,0.9090909090909091
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_96.jpg,tagheuer tagheuer crack under #dont tagh jag heuer,vs weeo #box crack taghg under #e/ tagheuer,0.6,1.0
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_97.jpg,geox geox sale,fale geox glox,0.5714285714285714,0.6666666666666666
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_98.jpg,brand shopping wing new out and options your way ail,jok out brand new ail wing and shopping options ng your way,0.6153846153846154,0.8
+/Users/maksim/Desktop/TETE/Summer_practice/data/raw/Text_detection_in_the_documents/test/ch4_test_images/img_99.jpg,marks& spencer off,marksr spencer zbevcel wbks,0.7222222222222222,1.0
