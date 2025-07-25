@@ -31,7 +31,7 @@ def evaluate_easyocr(csv_path):
     lang = config['lang']
     allowlist = config['allowlist']
     try:
-        reader = easyocr.Reader(lang, gpu=True)
+        reader = easyocr.Reader(['ru'], gpu=True)
         logging.info('EasyOCR инициализирован с поддержкой GPU')
     except Exception as e:
         logging.warning(f'GPU не поддерживается: {e}. Используется CPU.')
